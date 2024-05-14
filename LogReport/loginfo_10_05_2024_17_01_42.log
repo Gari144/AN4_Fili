@@ -1,0 +1,169 @@
+2024-05-10 17:01:51 INFO  Keywords:92 - Navigate is called
+2024-05-10 17:01:56 INFO  Keywords:120 - InputText is called
+2024-05-10 17:01:56 INFO  Keywords:281 - Waiting for webElement...login.username
+2024-05-10 17:01:56 INFO  Keywords:285 - Element found...login.username
+2024-05-10 17:01:56 INFO  Keywords:120 - InputText is called
+2024-05-10 17:01:56 INFO  Keywords:281 - Waiting for webElement...login.password
+2024-05-10 17:01:56 INFO  Keywords:285 - Element found...login.password
+2024-05-10 17:01:57 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:01:57 INFO  Keywords:281 - Waiting for webElement...login.loginbutton
+2024-05-10 17:01:57 INFO  Keywords:285 - Element found...login.loginbutton
+2024-05-10 17:02:07 INFO  Keywords:281 - Waiting for webElement...userlist.partner
+2024-05-10 17:02:07 INFO  Keywords:285 - Element found...userlist.partner
+2024-05-10 17:02:17 INFO  Keywords:281 - Waiting for webElement...userlist.userrole
+2024-05-10 17:02:17 INFO  Keywords:285 - Element found...userlist.userrole
+2024-05-10 17:02:18 INFO  Keywords:120 - InputText is called
+2024-05-10 17:02:18 INFO  Keywords:281 - Waiting for webElement...userlist.loginID
+2024-05-10 17:02:18 INFO  Keywords:285 - Element found...userlist.loginID
+2024-05-10 17:02:18 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:02:18 INFO  Keywords:281 - Waiting for webElement...userlist.search
+2024-05-10 17:02:18 INFO  Keywords:285 - Element found...userlist.search
+2024-05-10 17:02:29 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:02:29 INFO  Keywords:281 - Waiting for webElement...userlist.selectuser
+2024-05-10 17:02:29 INFO  Keywords:285 - Element found...userlist.selectuser
+2024-05-10 17:02:29 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:02:29 INFO  Keywords:281 - Waiting for webElement...userlist.login
+2024-05-10 17:02:29 INFO  Keywords:285 - Element found...userlist.login
+2024-05-10 17:02:43 INFO  Keywords:281 - Waiting for webElement...userinformation.initialaction
+2024-05-10 17:02:43 INFO  Keywords:285 - Element found...userinformation.initialaction
+2024-05-10 17:02:43 INFO  Keywords:281 - Waiting for webElement...userinformation.rawxml
+2024-05-10 17:02:43 INFO  Keywords:285 - Element found...userinformation.rawxml
+2024-05-10 17:02:56 INFO  Keywords:440 - switching to parent window...
+2024-05-10 17:03:51 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:03:51 INFO  Keywords:281 - Waiting for webElement...userinformation.samllogin
+2024-05-10 17:03:51 INFO  Keywords:285 - Element found...userinformation.samllogin
+2024-05-10 17:04:02 INFO  Keywords:281 - Waiting for webElement...carrier.Account
+2024-05-10 17:04:04 INFO  Keywords:285 - Element found...carrier.Account
+2024-05-10 17:04:14 INFO  Keywords:281 - Waiting for webElement...carrier.AgentName
+2024-05-10 17:04:14 INFO  Keywords:285 - Element found...carrier.AgentName
+2024-05-10 17:04:35 INFO  Keywords:281 - Waiting for webElement...Carrier.SolicitationState
+2024-05-10 17:04:35 INFO  Keywords:285 - Element found...Carrier.SolicitationState
+2024-05-10 17:04:45 INFO  Keywords:281 - Waiting for webElement...carrier.carrierName
+2024-05-10 17:04:45 INFO  Keywords:285 - Element found...carrier.carrierName
+2024-05-10 17:04:55 INFO  Keywords:281 - Waiting for webElement...carrier.carrierProduct
+2024-05-10 17:04:56 INFO  Keywords:285 - Element found...carrier.carrierProduct
+2024-05-10 17:05:06 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:05:06 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:05:06 INFO  Keywords:285 - Element found...next
+2024-05-10 17:05:16 INFO  Keywords:281 - Waiting for webElement...plan.accountDesignation
+2024-05-10 17:05:17 INFO  Keywords:285 - Element found...plan.accountDesignation
+2024-05-10 17:05:27 INFO  Keywords:281 - Waiting for webElement...plan.planType
+2024-05-10 17:05:27 INFO  Keywords:285 - Element found...plan.planType
+2024-05-10 17:05:38 INFO  Keywords:281 - Waiting for webElement...plan.ownerType
+2024-05-10 17:05:38 INFO  Keywords:285 - Element found...plan.ownerType
+2024-05-10 17:05:38 INFO  Keywords:281 - Waiting for webElement...plan.owninsuranceplan
+2024-05-10 17:05:38 INFO  Keywords:285 - Element found...plan.owninsuranceplan
+2024-05-10 17:05:38 INFO  Keywords:281 - Waiting for webElement...plan.age60orOver
+2024-05-10 17:05:38 INFO  Keywords:285 - Element found...plan.age60orOver
+2024-05-10 17:05:38 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:05:38 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:05:38 INFO  Keywords:285 - Element found...next
+2024-05-10 17:05:56 INFO  Keywords:516 - ClearText is called
+2024-05-10 17:05:56 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth
+2024-05-10 17:05:56 INFO  Keywords:285 - Element found...Indowner.dateofbirth
+2024-05-10 17:05:56 INFO  Keywords:520 - 
+2024-05-10 17:05:56 INFO  Keywords:120 - InputText is called
+2024-05-10 17:05:56 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth
+2024-05-10 17:05:56 INFO  Keywords:285 - Element found...Indowner.dateofbirth
+2024-05-10 17:05:56 INFO  Keywords:120 - InputText is called
+2024-05-10 17:05:56 INFO  Keywords:281 - Waiting for webElement...Indowner.mobilephonenumber1
+2024-05-10 17:05:56 INFO  Keywords:285 - Element found...Indowner.mobilephonenumber1
+2024-05-10 17:05:56 INFO  Keywords:120 - InputText is called
+2024-05-10 17:05:56 INFO  Keywords:281 - Waiting for webElement...Indowner.mobilephonenumber2
+2024-05-10 17:05:56 INFO  Keywords:285 - Element found...Indowner.mobilephonenumber2
+2024-05-10 17:05:57 INFO  Keywords:120 - InputText is called
+2024-05-10 17:05:57 INFO  Keywords:281 - Waiting for webElement...Indowner.mobilephonenumber3
+2024-05-10 17:05:57 INFO  Keywords:285 - Element found...Indowner.mobilephonenumber3
+2024-05-10 17:05:57 INFO  Keywords:281 - Waiting for webElement...Indowner.Is_there_Joint_Annuitant_YES
+2024-05-10 17:05:57 INFO  Keywords:285 - Element found...Indowner.Is_there_Joint_Annuitant_YES
+2024-05-10 17:05:57 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:05:57 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:05:57 INFO  Keywords:285 - Element found...next
+2024-05-10 17:06:12 INFO  Keywords:120 - InputText is called
+2024-05-10 17:06:12 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant.FirstName
+2024-05-10 17:06:12 INFO  Keywords:285 - Element found...jointAnnuitant.FirstName
+2024-05-10 17:06:13 INFO  Keywords:120 - InputText is called
+2024-05-10 17:06:13 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant.LastName
+2024-05-10 17:06:13 INFO  Keywords:285 - Element found...jointAnnuitant.LastName
+2024-05-10 17:06:13 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.Gender
+2024-05-10 17:06:13 INFO  Keywords:285 - Element found...jointAnnuitant1.Gender
+2024-05-10 17:06:13 INFO  Keywords:120 - InputText is called
+2024-05-10 17:06:13 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.DateOfBirth
+2024-05-10 17:06:13 INFO  Keywords:285 - Element found...jointAnnuitant1.DateOfBirth
+2024-05-10 17:06:13 INFO  Keywords:120 - InputText is called
+2024-05-10 17:06:13 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.SSN1
+2024-05-10 17:06:13 INFO  Keywords:285 - Element found...jointAnnuitant1.SSN1
+2024-05-10 17:06:14 INFO  Keywords:120 - InputText is called
+2024-05-10 17:06:14 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.SSN2
+2024-05-10 17:06:14 INFO  Keywords:285 - Element found...jointAnnuitant1.SSN2
+2024-05-10 17:06:14 INFO  Keywords:120 - InputText is called
+2024-05-10 17:06:14 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.SSN3
+2024-05-10 17:06:14 INFO  Keywords:285 - Element found...jointAnnuitant1.SSN3
+2024-05-10 17:06:14 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:06:14 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.Physicalstreetaddress
+2024-05-10 17:06:14 INFO  Keywords:285 - Element found...jointAnnuitant1.Physicalstreetaddress
+2024-05-10 17:06:14 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.RelationtoAnnuitant
+2024-05-10 17:06:14 INFO  Keywords:285 - Element found...jointAnnuitant1.RelationtoAnnuitant
+2024-05-10 17:06:14 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:06:14 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:06:14 INFO  Keywords:285 - Element found...next
+2024-05-10 17:06:29 INFO  Keywords:281 - Waiting for webElement...Contractfeatures.LivingBenefits
+2024-05-10 17:06:29 INFO  Keywords:285 - Element found...Contractfeatures.LivingBenefits
+2024-05-10 17:06:29 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:06:29 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:06:29 INFO  Keywords:285 - Element found...next
+2024-05-10 17:06:44 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:06:44 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:06:44 INFO  Keywords:285 - Element found...next
+2024-05-10 17:06:59 INFO  Keywords:281 - Waiting for webElement...benefiviary.beneficiary_Type
+2024-05-10 17:07:09 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:09 INFO  Keywords:281 - Waiting for webElement...beneficiary1.percentage
+2024-05-10 17:07:09 INFO  Keywords:285 - Element found...beneficiary1.percentage
+2024-05-10 17:07:09 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:09 INFO  Keywords:281 - Waiting for webElement...beneficiary1.entityname
+2024-05-10 17:07:09 INFO  Keywords:285 - Element found...beneficiary1.entityname
+2024-05-10 17:07:10 INFO  Keywords:281 - Waiting for webElement...beneficiary1.gender
+2024-05-10 17:07:10 INFO  Keywords:285 - Element found...beneficiary1.gender
+2024-05-10 17:07:10 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:10 INFO  Keywords:281 - Waiting for webElement...beneficiary1.dateofbirth
+2024-05-10 17:07:20 INFO  Keywords:281 - Waiting for webElement...beneficiary1.relationToOwner
+2024-05-10 17:07:30 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:07:30 INFO  Keywords:281 - Waiting for webElement...beneficiary.addBeneficiary
+2024-05-10 17:07:31 INFO  Keywords:285 - Element found...beneficiary.addBeneficiary
+2024-05-10 17:07:41 INFO  Keywords:281 - Waiting for webElement...beneficiary2.BeneficiryType
+2024-05-10 17:07:42 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:42 INFO  Keywords:281 - Waiting for webElement...beneficiary2.percentage
+2024-05-10 17:07:42 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:42 INFO  Keywords:281 - Waiting for webElement...beneficiary2.entityname
+2024-05-10 17:07:42 INFO  Keywords:281 - Waiting for webElement...beneficiary2.gender
+2024-05-10 17:07:43 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:43 INFO  Keywords:281 - Waiting for webElement...beneficiary2.dateofbirth
+2024-05-10 17:07:43 INFO  Keywords:281 - Waiting for webElement...beneficiary2.relationToOwner
+2024-05-10 17:07:43 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:07:43 INFO  Keywords:281 - Waiting for webElement...beneficiary.addBeneficiary
+2024-05-10 17:07:44 INFO  Keywords:285 - Element found...beneficiary.addBeneficiary
+2024-05-10 17:07:54 INFO  Keywords:281 - Waiting for webElement...beneficiary3.contingentBeneficiryType
+2024-05-10 17:07:54 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:54 INFO  Keywords:281 - Waiting for webElement...beneficiary3.percentage
+2024-05-10 17:07:55 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:55 INFO  Keywords:281 - Waiting for webElement...beneficiary3.entityname
+2024-05-10 17:07:55 INFO  Keywords:281 - Waiting for webElement...beneficiary3.gender
+2024-05-10 17:07:55 INFO  Keywords:120 - InputText is called
+2024-05-10 17:07:55 INFO  Keywords:281 - Waiting for webElement...beneficiary3.dateofbirth
+2024-05-10 17:07:56 INFO  Keywords:281 - Waiting for webElement...beneficiary3.relationToOwner
+2024-05-10 17:07:56 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:07:56 INFO  Keywords:281 - Waiting for webElement...beneficiary.addBeneficiary
+2024-05-10 17:07:56 INFO  Keywords:285 - Element found...beneficiary.addBeneficiary
+2024-05-10 17:08:06 INFO  Keywords:281 - Waiting for webElement...beneficiary4.contingentBeneficiryType
+2024-05-10 17:08:06 INFO  Keywords:120 - InputText is called
+2024-05-10 17:08:06 INFO  Keywords:281 - Waiting for webElement...beneficiary4.percentage
+2024-05-10 17:08:06 INFO  Keywords:120 - InputText is called
+2024-05-10 17:08:06 INFO  Keywords:281 - Waiting for webElement...beneficiary4.entityname
+2024-05-10 17:08:07 INFO  Keywords:281 - Waiting for webElement...beneficiary4.gender
+2024-05-10 17:08:07 INFO  Keywords:120 - InputText is called
+2024-05-10 17:08:07 INFO  Keywords:281 - Waiting for webElement...beneficiary4.dateofbirth
+2024-05-10 17:08:07 INFO  Keywords:281 - Waiting for webElement...beneficiary4.relationToOwner
+2024-05-10 17:08:07 INFO  Keywords:133 - ClickOnLink is called
+2024-05-10 17:08:07 INFO  Keywords:281 - Waiting for webElement...next
+2024-05-10 17:08:07 INFO  Keywords:285 - Element found...next
+2024-05-10 17:08:17 INFO  Keywords:281 - Waiting for webElement...payment.moneySource

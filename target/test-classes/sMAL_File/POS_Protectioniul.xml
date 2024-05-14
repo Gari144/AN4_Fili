@@ -1,0 +1,71 @@
+<saml2p:Response xmlns:saml2p="urn:oasis:names:tc:SAML:2.0:protocol" Destination="https://lifespeed.uat.ebixexchange.com/gateway/hub-login.aspx" ID="EBIXSTP-d9701928-2504-4ef9-82aa-195bb4c77962" IssueInstant="2022-08-24T16:15:01.998Z" Version="2.0">
+    <saml2:Issuer xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" Format="urn:oasis:names:tc:SAML:2.0:nameid-format:entity">EBIXSTP</saml2:Issuer>
+    <saml2p:Status>
+        <saml2p:StatusCode Value="urn:oasis:names:tc:SAML:2.0:status:Success"/>
+    </saml2p:Status>
+    <saml2:Assertion xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" xmlns:xs="http://www.w3.org/2001/XMLSchema" ID="EBIXSTP-ba447317-f7ca-4f85-88e5-317d1865bfe9" IssueInstant="2022-08-24T16:15:01.998Z" Version="2.0">
+        <saml2:Issuer Format="urn:oasis:names:tc:SAML:2.0:nameid-format:entity">EBIXSTP</saml2:Issuer>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#EBIXSTP-ba447317-f7ca-4f85-88e5-317d1865bfe9">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>xfx/0fnlTMa+mWcSClGqgDR9eXU=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>ZrwsKn96BgMPSCLkHJADxAqBjRfFRihWBDXbwz0Xg2/5QlYbFXNJqEiwJlqW16kaVrhXGGo+hDV3FDcLCCBtdXpA6nx6t9bNV7I9ZZ7/4AaYQvDTwpv/6jLhrsI/lylZ/+Lqj23G0E4Owkmrq6aNT0LRZ1uTNwTsmJaRIY350Fy6O7/O2CqJCQ8/wnA0DC01wGMRibHv4jOzJSgfme3+oEzAmdfeeW/HcC13gPOLYPtRTrP37YeNuiJBJm5l94lKSExXBEo54m1+nSpIgDTbGU1rEJ0pKt+xQZSjiEkAys0bkxtC+78pzdrbKLjDtJ8RZhyeL5tdOBormgr5It6QNw==</SignatureValue>
+        </Signature>
+        <saml2:Subject>
+            <saml2:NameID Format="urn:oasis:names:tc:SAML:2.0:nameid-format:ClientID">JPMC</saml2:NameID>
+            <saml2:SubjectConfirmation Method="urn:oasis:names:tc:SAML:2.0:cm:bearer">
+                <saml2:SubjectConfirmationData NotOnOrAfter="2022-08-24T16:21:01.998Z" Recipient="LIFESPEED"/>
+            </saml2:SubjectConfirmation>
+        </saml2:Subject>
+        <saml2:Conditions NotBefore="2022-08-24T16:15:01.998Z" NotOnOrAfter="2022-08-24T16:21:01.998Z">
+            <saml2:AudienceRestriction>
+                <saml2:Audience>LIFESPEED</saml2:Audience>
+            </saml2:AudienceRestriction>
+        </saml2:Conditions>
+        <saml2:AuthnStatement AuthnInstant="2022-08-24T16:15:01.998Z" SessionIndex="b769c140-5759-461e-affb-6ef1cc81f2b5">
+            <saml2:AuthnContext>
+                <saml2:AuthnContextClassRef>urn:oasis:names:tc:SAML:2.0:ac:classes:PasswordProtectedTransport</saml2:AuthnContextClassRef>
+            </saml2:AuthnContext>
+        </saml2:AuthnStatement>
+        <saml2:AttributeStatement>
+            <saml2:Attribute Name="userid" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue>Abc</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="userGUID" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue/>
+            </saml2:Attribute>
+            <saml2:Attribute Name="externalUserId" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue/>
+            </saml2:Attribute>
+            <saml2:Attribute Name="localAppUserId" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue/>
+            </saml2:Attribute>
+            <saml2:Attribute Name="parentApp" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue>N</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="action" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue>NewApplication</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="module" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue/>
+            </saml2:Attribute>
+            <saml2:Attribute Name="HUBServiceEnvironment" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue>UAT</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="data" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue>
+                    <![CDATA[<Data><Extensions><Extension Id="clientData"><User><Ids><Id><PartyId>JPMC</PartyId><IdValue>Suneel</IdValue></Id></Ids><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>123456789</Value></TaxId><OtherIdentifier><Type>NATIONAL_PRODUCER_NUMBER</Type><Value>114649</Value></OtherIdentifier></TaxIds><EmailAddress>suneel.k@ebix.com</EmailAddress><Role><Ids><Id><PartyId>JPMC</PartyId><IdValue>SU</IdValue></Id></Ids></Role><PersonName><FirstName>Suneel</FirstName><MName/><LastName>Kumar</LastName></PersonName><BusinessUnitLinks><BusinessUnitLink><Ids><Id><PartyId>JPMC</PartyId><IdValue>Abc</IdValue></Id></Ids></BusinessUnitLink></BusinessUnitLinks><Telephones><Telephone><Number>6395138537</Number><Type>Work</Type></Telephone></Telephones></User><BusinessUnits><BusinessUnit><Ids><Id><PartyId>JPMC</PartyId><IdValue>JPMC</IdValue></Id></Ids><Name>JPMORGAN CHASE</Name><Class><Id><PartyId>JPMC</PartyId><IdValue>Level 1</IdValue></Id></Class><Parent><Id><PartyId>JPMC</PartyId><IdValue>JPMC</IdValue></Id></Parent></BusinessUnit><BusinessUnit><Ids><Id><PartyId>JPMC</PartyId><IdValue>JPMA</IdValue></Id></Ids><Name>CWM</Name><Class><Id><PartyId>JPMC</PartyId><IdValue>Level 2</IdValue></Id></Class><Parent><Id><PartyId>JPMC</PartyId><IdValue>JPMC</IdValue></Id></Parent></BusinessUnit><BusinessUnit><Ids><Id><PartyId>JPMC</PartyId><IdValue>OD37</IdValue></Id></Ids><Name>Cincinnati Downtown</Name><Class><Id><PartyId>JPMC</PartyId><IdValue>Level 3</IdValue></Id></Class><Parent><Id><PartyId>JPMC</PartyId><IdValue>CWM OR JPMS OR USPB</IdValue></Id></Parent><Address><Line1>495 Bhangel Street </Line1><City>CINCINNATI</City><State>OH</State><PostalCode>45202</PostalCode><Country>US</Country></Address></BusinessUnit><BusinessUnit><Ids><Id><PartyId>JPMC</PartyId><IdValue>E914649</IdValue></Id></Ids><Name>SupportFn M SupportLn</Name><Class><Id><PartyId>JPMC</PartyId><IdValue>Level 4</IdValue></Id></Class><Parent><Id><PartyId>JPMC</PartyId><IdValue>OD37</IdValue></Id></Parent></BusinessUnit></BusinessUnits><Product><Ids><Id><PartyId>JPMC</PartyId><IdValue>4660</IdValue></Id></Ids><Names><Name><TYPE>DISPLAY</TYPE><VALUE>PruLife SVUL Protector (2021)</VALUE></Name></Names><CUSIP>74430U165</CUSIP><Type><LineOfBusiness>LIFE</LineOfBusiness></Type><Parameters><Parameter><Name>CarrierCode</Name><Value>79227</Value></Parameter></Parameters></Product><Parameters><Parameter><Name>ClientAccountNumber</Name><Value>INSUREDPOSDIFFRENT</Value></Parameter><Parameter><Name>SolicitationCity</Name><Value>Miami</Value></Parameter><Parameter><Name>SolicitationState</Name><Value>MN</Value></Parameter><Parameter><Name>ExternalTransactionId</Name><Value>769ce3f6-123f-48ca-a7d7-3f4dc2944854</Value></Parameter><Parameter><Name>JPMCInternalTxnId</Name><Value>2105160</Value></Parameter><Parameter><Name>SessionJourneyToContinue</Name><Value>true</Value></Parameter><Parameter><Name>TipSheetURL</Name><Value>https://go/life.term.tipSheetUrl</Value></Parameter><Parameter><Name>OfferBGAHelp</Name><Value>NA</Value></Parameter><Parameter><Name>InternalServiceCall</Name><Value>true</Value></Parameter><Parameter><Name>QuoteOrIllustrationReference</Name><Value>d7897d57-2402-4108-bd7d-3203f20f652f</Value></Parameter><Parameter><Name>QuoteOrIllustrationObjectId</Name><Value>ProposalTracking.4.8164</Value></Parameter><Parameter><Name>OffLineCarrierApp</Name><Value>Yes</Value></Parameter><Parameter><Name>InformalPolicyNumber</Name><Value>Test</Value></Parameter></Parameters></Extension></Extensions></Data>]]>
+                </saml2:AttributeValue>
+            </saml2:Attribute>
+        </saml2:AttributeStatement>
+    </saml2:Assertion>
+</saml2p:Response>

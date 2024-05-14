@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_08.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_08.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_18.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_18.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_27_56.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_27_56.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_28_07.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_28_07.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_28_55.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_28_55.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_32_43.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_32_43.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_54.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_54.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_55.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_55.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_32_55.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_32_55.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_16.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_16.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_27.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_27.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_33_37.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_33_37.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_37.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_37.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_38.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_38.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_39.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_39.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_49.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_49.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_01.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_01.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_11.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_11.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_12.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_12.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_13.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_13.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_14.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_14.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_15.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_15.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_16.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_16.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_37.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_37.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_47.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_47.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_58.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_58.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_08.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_08.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_18.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_18.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_29.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_29.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_39.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_39.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_50.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_50.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_36_11.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_36_11.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_38_21.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_38_21.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-14T16:22:28 IST" name="Suite" finished-at="2024-05-14T16:38:33 IST" duration-ms="964978">
+    <groups>
+    </groups>
+    <test started-at="2024-05-14T16:22:28 IST" name="Test" finished-at="2024-05-14T16:38:33 IST" duration-ms="964978">
+      <class name="testController.TestController">
+        <test-method is-config="true" signature="setLog4j()[pri:0, instance:testController.TestController@19e4653c]" started-at="2024-05-14T16:22:27 IST" name="setLog4j" finished-at="2024-05-14T16:22:28 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLog4j -->
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:testController.TestController@19e4653c]" started-at="2024-05-14T16:22:28 IST" name="initBrowser" finished-at="2024-05-14T16:22:31 IST" duration-ms="3090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="TestCaseController()[pri:0, instance:testController.TestController@19e4653c]" started-at="2024-05-14T16:22:31 IST" name="TestCaseController" finished-at="2024-05-14T16:38:33 IST" duration-ms="961784" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_08.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_08.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_18.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_25_18.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_27_56.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_27_56.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_28_07.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_28_07.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_28_55.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_28_55.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_32_43.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]selectByVisibleText_14_05_2024_04_32_43.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_54.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_54.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_55.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_32_55.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_32_55.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_32_55.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_16.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_16.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_27.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_27.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_33_37.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_33_37.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_37.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_37.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_38.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_38.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_39.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_39.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_49.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_33_49.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_01.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_01.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_11.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_11.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_12.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_12.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_13.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_13.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_14.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_14.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_15.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_15.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_16.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickRadioButton_14_05_2024_04_34_16.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_37.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_37.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_47.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_47.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_58.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_34_58.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_08.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_08.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_18.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_18.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_29.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_29.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_39.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_39.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_50.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]inputText_14_05_2024_04_35_50.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_36_11.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_36_11.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_38_21.png'><img src='D:\Automastion selemium fili\eclipse-workspace\AN4_FILI\AN4_FILI\src\test\java\screenshot\TC04[1]clickOnLink_14_05_2024_04_38_21.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCaseController -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testController.TestController@19e4653c]" started-at="2024-05-14T16:38:33 IST" name="quitBrowser" finished-at="2024-05-14T16:38:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testController.TestController -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

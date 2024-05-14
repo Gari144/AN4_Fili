@@ -1,0 +1,61 @@
+2024-04-29 14:48:31 INFO  Keywords:92 - Navigate is called
+2024-04-29 14:48:35 INFO  Keywords:120 - InputText is called
+2024-04-29 14:48:35 INFO  Keywords:281 - Waiting for webElement...login.username
+2024-04-29 14:48:35 INFO  Keywords:285 - Element found...login.username
+2024-04-29 14:48:36 INFO  Keywords:120 - InputText is called
+2024-04-29 14:48:36 INFO  Keywords:281 - Waiting for webElement...login.password
+2024-04-29 14:48:36 INFO  Keywords:285 - Element found...login.password
+2024-04-29 14:48:36 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:48:36 INFO  Keywords:281 - Waiting for webElement...login.loginbutton
+2024-04-29 14:48:36 INFO  Keywords:285 - Element found...login.loginbutton
+2024-04-29 14:48:46 INFO  Keywords:281 - Waiting for webElement...userlist.partner
+2024-04-29 14:48:46 INFO  Keywords:285 - Element found...userlist.partner
+2024-04-29 14:48:57 INFO  Keywords:281 - Waiting for webElement...userlist.userrole
+2024-04-29 14:48:57 INFO  Keywords:285 - Element found...userlist.userrole
+2024-04-29 14:48:57 INFO  Keywords:120 - InputText is called
+2024-04-29 14:48:57 INFO  Keywords:281 - Waiting for webElement...userlist.loginID
+2024-04-29 14:48:57 INFO  Keywords:285 - Element found...userlist.loginID
+2024-04-29 14:48:57 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:48:57 INFO  Keywords:281 - Waiting for webElement...userlist.search
+2024-04-29 14:48:57 INFO  Keywords:285 - Element found...userlist.search
+2024-04-29 14:49:07 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:49:07 INFO  Keywords:281 - Waiting for webElement...userlist.selectuser
+2024-04-29 14:49:07 INFO  Keywords:285 - Element found...userlist.selectuser
+2024-04-29 14:49:08 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:49:08 INFO  Keywords:281 - Waiting for webElement...userlist.login
+2024-04-29 14:49:08 INFO  Keywords:285 - Element found...userlist.login
+2024-04-29 14:49:23 INFO  Keywords:281 - Waiting for webElement...userinformation.initialaction
+2024-04-29 14:49:23 INFO  Keywords:285 - Element found...userinformation.initialaction
+2024-04-29 14:49:24 INFO  Keywords:281 - Waiting for webElement...userinformation.rawxml
+2024-04-29 14:49:24 INFO  Keywords:285 - Element found...userinformation.rawxml
+2024-04-29 14:49:37 INFO  Keywords:440 - switching to parent window...
+2024-04-29 14:50:33 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:50:33 INFO  Keywords:281 - Waiting for webElement...userinformation.samllogin
+2024-04-29 14:50:33 INFO  Keywords:285 - Element found...userinformation.samllogin
+2024-04-29 14:50:44 INFO  Keywords:281 - Waiting for webElement...carrier.Account
+2024-04-29 14:50:50 INFO  Keywords:285 - Element found...carrier.Account
+2024-04-29 14:51:01 INFO  Keywords:281 - Waiting for webElement...carrier.AgentName
+2024-04-29 14:51:01 INFO  Keywords:285 - Element found...carrier.AgentName
+2024-04-29 14:51:21 INFO  Keywords:281 - Waiting for webElement...Carrier.SolicitationState
+2024-04-29 14:51:22 INFO  Keywords:285 - Element found...Carrier.SolicitationState
+2024-04-29 14:51:32 INFO  Keywords:281 - Waiting for webElement...carrier.carrierName
+2024-04-29 14:51:32 INFO  Keywords:285 - Element found...carrier.carrierName
+2024-04-29 14:51:42 INFO  Keywords:281 - Waiting for webElement...carrier.carrierProduct
+2024-04-29 14:51:42 INFO  Keywords:285 - Element found...carrier.carrierProduct
+2024-04-29 14:51:52 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:51:52 INFO  Keywords:281 - Waiting for webElement...next
+2024-04-29 14:51:52 INFO  Keywords:285 - Element found...next
+2024-04-29 14:52:03 INFO  Keywords:281 - Waiting for webElement...plan.accountDesignation
+2024-04-29 14:52:03 INFO  Keywords:285 - Element found...plan.accountDesignation
+2024-04-29 14:52:13 INFO  Keywords:281 - Waiting for webElement...plan.planType
+2024-04-29 14:52:13 INFO  Keywords:285 - Element found...plan.planType
+2024-04-29 14:52:23 INFO  Keywords:281 - Waiting for webElement...plan.ownerType
+2024-04-29 14:52:23 INFO  Keywords:285 - Element found...plan.ownerType
+2024-04-29 14:52:23 INFO  Keywords:281 - Waiting for webElement...plan.owninsuranceplan
+2024-04-29 14:52:23 INFO  Keywords:285 - Element found...plan.owninsuranceplan
+2024-04-29 14:52:23 INFO  Keywords:281 - Waiting for webElement...plan.does_client_consent
+2024-04-29 14:52:34 INFO  Keywords:133 - ClickOnLink is called
+2024-04-29 14:52:34 INFO  Keywords:281 - Waiting for webElement...next
+2024-04-29 14:52:34 INFO  Keywords:285 - Element found...next
+2024-04-29 14:52:44 INFO  Keywords:120 - InputText is called
+2024-04-29 14:52:44 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<saml2p:Response xmlns:saml2p="urn:oasis:names:tc:SAML:2.0:protocol" Destination="URL OF AnnuityNet System. Example: https://uat.annuitynet3.ebix.com/login/saml/" ID="A Unique Identifier. " IssueInstant="Datetime Stamp when this assertion was generate. ex: 2013-01-25T05:19:30.388Z" Version="2.0">
+    <saml2:Issuer xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" Format="urn:oasis:names:tc:SAML:2.0:nameid-format:entity">URL or Identity of the Identity Provider.</saml2:Issuer>
+    <saml2p:Status>
+        <saml2p:StatusCode Value="urn:oasis: s:tc:SAML:2.0:status:Success"/>
+    </saml2p:Status>
+    <saml2:Assertion xmlns:saml2="urn:oasis:names:tc:SAML:2.0:assertion" xmlns:xs="http://www.w3.org/2001/XMLSchema" ID="A unique ID of the assertion. This should NOT be the same value as ID under Response node. " IssueInstant="Datetime Stamp when this assertion was generate. ex: 2013-01-25T05:19:30.388Z" Version="2.0">
+        <saml2:Issuer Format="urn:oasis:names:tc:SAML:2.0:nameid-format:entity">xyz.com</saml2:Issuer>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="This will be the ID value speficied under Assertion. This value is always prefixed by # sign.">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#">
+                            <InclusiveNamespaces xmlns="http://www.w3.org/2001/10/xml-exc-c14n#" PrefixList="xs"/>
+                        </Transform>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>+L3rZfDxkh1BfwcWED5DhNd0Nd4=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>kytW2bs2XS1sPUEad6LsJGzRP6nGdLTPrGRXnN8OSjUqrXt6PoJc7dFjVcVVon9gXV+Sn211GQSfSWITPIhRBFrkUmfg/Ul/h4sZNtV62H8FGhJMmd5GTY7nPwQfK8BrdwWZkW+Wp2npjKCiPMwIUA2NKRRNoCYg4kZ/CcwC+WS5mZCHD2gcdLF4ozSSmRZHyzhHMCvSz5wJsNu7bYKnwXuZqTHFP6QgO1AJXa9iArD/cbJH3G4ea0aIWsmHea//0ZdyGPbN45WHaCB/JXoijr5r7Cp+AlsZsyqpFejOhc8bJVZI28QiyREAQDw2kQDRujjb2P8ofz9ISt0bVCLJ3g==</SignatureValue>
+        </Signature>
+        <saml2:Subject>
+            <saml2:NameID Format="urn:oasis:names:tc:SAML:2.0:nameid-format:ClientID">A044019</saml2:NameID>
+            <saml2:SubjectConfirmation Method="urn:oasis:names:tc:SAML:2.0:cm:bearer">
+                <saml2:SubjectConfirmationData NotOnOrAfter="2025-01-25T05:24:30.388Z" Recipient="https://uat.eannuity.ebix.com/login/saml/"/>
+            </saml2:SubjectConfirmation>
+        </saml2:Subject>
+        <saml2:Conditions NotBefore="2013-01-25T05:19:30.388Z" NotOnOrAfter="2025-01-25T05:24:30.388Z">
+            <saml2:AudienceRestriction>
+                <saml2:Audience>this tag is that it facilitates a sort of intention statement declaring for what specific URI with the SP a given assertion is valid</saml2:Audience>
+            </saml2:AudienceRestriction>
+        </saml2:Conditions>
+        <saml2:AuthnStatement AuthnInstant="Datetime Stamp when this statement was generate. ex:2013-01-25T05:19:30.388Z" SessionIndex="This is the session ID of the user that is generated in client system.">
+            <saml2:AuthnContext>
+                <saml2:AuthnContextClassRef>urn:oasis:names:tc:SAML:2.0:ac:classes:PasswordProtectedTransport</saml2:AuthnContextClassRef>
+            </saml2:AuthnContext>
+        </saml2:AuthnStatement>
+        <saml2:AttributeStatement>
+            <saml2:Attribute Name="sendingpartyid" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string">FILI</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="userid" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string">Suneel_SR</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="action" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string">NewApplication</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="sessionid" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string">F56BBC6894C21D7580F8ACB1143F217AD28C9A114BEDE882D94BD95899845E2D76F2BDEF71032D27</saml2:AttributeValue>
+            </saml2:Attribute>
+            <saml2:Attribute Name="data" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic">
+                <saml2:AttributeValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string"><![CDATA[<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soap:Header><Header xmlns="www.finetre.com/webservices"><SessionId>66B3CA2680AD4B75ACEEC0DB6889E870</SessionId><Test>false</Test><ServiceVersion>1</ServiceVersion><RequestorId>ANNUITYNET</RequestorId><RequestorKey xsi:nil="true"/><RequestSentDateTime>2015-07-02T00:36:05.734-04:00</RequestSentDateTime><RequestReceivedDateTime>2015-07-02T00:36:07.437-04:00</RequestReceivedDateTime><ResponseSentDateTime>2015-07-02T00:36:07.437-04:00</ResponseSentDateTime><RequestReceivedDateTime>0001-01-01T00:00:00.0000000-05:00</RequestReceivedDateTime><Extensions xsi:nil="true"/></Header></soap:Header><soap:Body><AuthenticateResponse xmlns="www.finetre.com/webservices"><Data><SessionId>66B3CA2680AD4B75ACEEC0DB6889E870</SessionId><Action>APPLICATION</Action><TransactionIds><Id><PartyId>FILI</PartyId><IdValue>e25ae279-288e-4c36-b5b1-8a1fb2f8d531</IdValue></Id></TransactionIds><Entities><Entity><Ids><Id><PartyId>FILI</PartyId><IdValue>salesagent10</IdValue></Id></Ids><Type>PERSON</Type><SubType>USER</SubType><TaxIds><TaxId><Value>111111111</Value><Type>SOCIAL_SECURITY_NUMBER</Type></TaxId></TaxIds><EmailAddress>test@ebix.com</EmailAddress><PersonName><FirstName>Test</FirstName><LastName>USER</LastName></PersonName></Entity><Entity><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>PRIMARY_OWNER</IdValue></Id></Ids><PersonName><FirstName>Test</FirstName><LastName>Owner</LastName></PersonName><Addresses><Address><Type>HOME</Type><Line1>Test</Line1><City>Test</City><State>MI</State><PostalCode>49015</PostalCode></Address></Addresses><Date>08201980</Date><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>111111111</Value></TaxId></TaxIds><EmailAddress>test@ebix.com</EmailAddress><Sex>MALE</Sex><Telephones><Telephone><Number>111111111</Number></Telephone></Telephones><Type>PERSON</Type><ContractRoles><ContractRole><Type>PRIMARY_OWNER</Type></ContractRole><ContractRole><Type>PRIMARY_ANNUITANT</Type></ContractRole></ContractRoles><Accounts><Account><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>CLIENT_ACCOUNT</IdValue></Id></Ids><Number>12349876</Number></Account></Accounts><Relationship>SELF</Relationship></Entity><Entity><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>PRIMARY_BENEFICIARY</IdValue></Id></Ids><PersonName><FirstName>Test</FirstName><LastName>BENEFICIARY</LastName></PersonName><Addresses><Address><Type>HOME</Type><Line1>Test</Line1><City>Test</City><State>MI</State><PostalCode>49015</PostalCode></Address></Addresses><Date>08201981</Date><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>111111111</Value></TaxId></TaxIds><EmailAddress>test@ebix.com</EmailAddress><Sex>FEMALE</Sex><Telephones><Telephone><Number>1111111111</Number></Telephone></Telephones><Type>PERSON</Type><ContractRoles><ContractRole><Type>PRIMARY_BENEFICIARY</Type><Split>100</Split></ContractRole></ContractRoles><Relationship>DAUGHTER</Relationship></Entity><Entity><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>AGENT_OF_RECORD</IdValue></Id></Ids><PersonName><FirstName>Test</FirstName><MiddleName>AGENT</MiddleName><LastName>RECORD</LastName></PersonName><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>111111111</Value></TaxId></TaxIds><Type>PERSON</Type><ContractRoles><ContractRole><Type>AGENT_OF_RECORD</Type><Split>25</Split></ContractRole></ContractRoles></Entity><Entity><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>AGENT2</IdValue></Id></Ids><PersonName><FirstName>Test</FirstName><MiddleName>AGENT2</MiddleName><LastName>RECORD</LastName></PersonName><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>111111111</Value></TaxId></TaxIds><Type>PERSON</Type><ContractRoles><ContractRole><Type>AGENT</Type><Split>25</Split></ContractRole></ContractRoles></Entity><Entity><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>AGENT3</IdValue></Id></Ids><PersonName><FirstName>Test</FirstName><MiddleName>AGENT3</MiddleName><LastName>RECORD</LastName></PersonName><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>111111111</Value></TaxId></TaxIds><Type>PERSON</Type><ContractRoles><ContractRole><Type>AGENT</Type><Split>25</Split></ContractRole></ContractRoles></Entity><Entity><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>AGENT4</IdValue></Id></Ids><PersonName><FirstName>Test</FirstName><MiddleName>AGENT4</MiddleName><LastName>RECORD</LastName></PersonName><TaxIds><TaxId><Type>SOCIAL_SECURITY_NUMBER</Type><Value>111111111</Value></TaxId></TaxIds><Type>PERSON</Type><ContractRoles><ContractRole><Type>AGENT</Type><Split>25</Split></ContractRole></ContractRoles></Entity></Entities><Plan><Extensions><Extension><Id><PartyId>TRANSACTION</PartyId><IdValue>ACCOUNT_TYPE</IdValue></Id><Parameters><Parameter><Name>CUSTODIAL_DESIGNATION</Name><Value>NON_CUSTODIAL</Value></Parameter><Parameter><Name>QUALIFIED_DESIGNATION</Name><Value>NON_QUALIFIED</Value></Parameter></Parameters></Extension></Extensions></Plan><FinancialTransaction><Ids><Id><PartyId>TRANSACTION</PartyId><IdValue>INITIAL_PREMIUM</IdValue></Id></Ids><Type>INITIAL_PREMIUM</Type><Premiums><Premium><MoneySource>NEW_MONEY</MoneySource><Amounts><Amount><Value>25000</Value></Amount></Amounts><PaymentMethod>CHECK</PaymentMethod></Premium></Premiums></FinancialTransaction><Extensions><Extension><Parameters><Parameter><Name>USE_DETERMINATION_STATE</Name><Value>1</Value></Parameter><Parameter><Name>STATE</Name><Value>CA</Value></Parameter><Parameter><Name>DETERMINATION_CARRIER_ID</Name><Value>71228</Value></Parameter><Parameter><Name>DETERMINATION_CARRIER_ID</Name><Value>93696</Value></Parameter><Parameter><Name>CUSIP</Name><Value/></Parameter><Parameter><Name>ILLUSTRATION_ID</Name><Value/></Parameter></Parameters></Extension></Extensions></Data></AuthenticateResponse></soap:Body></soap:Envelope>]]></saml2:AttributeValue>
+            </saml2:Attribute>
+        </saml2:AttributeStatement>
+    </saml2:Assertion>
+</saml2p:Response>

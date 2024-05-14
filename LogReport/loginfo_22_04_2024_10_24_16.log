@@ -1,0 +1,50 @@
+2024-04-22 10:24:29 INFO  Keywords:96 - Navigate is called
+2024-04-22 10:24:36 INFO  Keywords:124 - InputText is called
+2024-04-22 10:24:36 INFO  Keywords:285 - Waiting for webElement...login.partnerCode
+2024-04-22 10:24:36 INFO  Keywords:289 - Element found...login.partnerCode
+2024-04-22 10:24:37 INFO  Keywords:520 - ClearText is called
+2024-04-22 10:24:37 INFO  Keywords:285 - Waiting for webElement...WebElement
+2024-04-22 10:24:37 INFO  Keywords:124 - InputText is called
+2024-04-22 10:24:37 INFO  Keywords:285 - Waiting for webElement...login.userID
+2024-04-22 10:24:37 INFO  Keywords:289 - Element found...login.userID
+2024-04-22 10:24:38 INFO  Keywords:520 - ClearText is called
+2024-04-22 10:24:38 INFO  Keywords:285 - Waiting for webElement...WebElement
+2024-04-22 10:24:38 INFO  Keywords:124 - InputText is called
+2024-04-22 10:24:38 INFO  Keywords:285 - Waiting for webElement...login.password1
+2024-04-22 10:24:38 INFO  Keywords:289 - Element found...login.password1
+2024-04-22 10:24:38 INFO  Keywords:137 - ClickOnLink is called
+2024-04-22 10:24:38 INFO  Keywords:285 - Waiting for webElement...login.login1
+2024-04-22 10:24:38 INFO  Keywords:289 - Element found...login.login1
+2024-04-22 10:24:52 INFO  Keywords:285 - Waiting for webElement...ebixHome.management
+2024-04-22 10:24:52 INFO  Keywords:289 - Element found...ebixHome.management
+2024-04-22 10:24:53 INFO  Keywords:285 - Waiting for webElement...ebixHome.dashboard
+2024-04-22 10:24:53 INFO  Keywords:289 - Element found...ebixHome.dashboard
+2024-04-22 10:24:55 INFO  Keywords:137 - ClickOnLink is called
+2024-04-22 10:24:55 INFO  Keywords:285 - Waiting for webElement...ebixHome.transactionViewer
+2024-04-22 10:24:55 INFO  Keywords:289 - Element found...ebixHome.transactionViewer
+2024-04-22 10:25:06 INFO  Keywords:124 - InputText is called
+2024-04-22 10:25:06 INFO  Keywords:285 - Waiting for webElement...ebix.usernameAN4
+2024-04-22 10:25:06 INFO  Keywords:289 - Element found...ebix.usernameAN4
+2024-04-22 10:25:07 INFO  Keywords:124 - InputText is called
+2024-04-22 10:25:07 INFO  Keywords:285 - Waiting for webElement...ebix.passwordAN4
+2024-04-22 10:25:07 INFO  Keywords:289 - Element found...ebix.passwordAN4
+2024-04-22 10:25:07 INFO  Keywords:137 - ClickOnLink is called
+2024-04-22 10:25:07 INFO  Keywords:285 - Waiting for webElement...ebix.loginAN4
+2024-04-22 10:25:07 INFO  Keywords:289 - Element found...ebix.loginAN4
+2024-04-22 10:25:17 INFO  Keywords:124 - InputText is called
+2024-04-22 10:25:17 INFO  Keywords:285 - Waiting for webElement...ebix.mgmtConsole.TransactionID
+2024-04-22 10:25:17 INFO  Keywords:289 - Element found...ebix.mgmtConsole.TransactionID
+2024-04-22 10:25:17 INFO  Keywords:520 - ClearText is called
+2024-04-22 10:25:17 INFO  Keywords:285 - Waiting for webElement...ebix.submittedDate
+2024-04-22 10:25:17 INFO  Keywords:289 - Element found...ebix.submittedDate
+2024-04-22 10:25:17 INFO  Keywords:524 - 
+2024-04-22 10:25:17 INFO  Keywords:137 - ClickOnLink is called
+2024-04-22 10:25:17 INFO  Keywords:285 - Waiting for webElement...ebix.search
+2024-04-22 10:25:17 INFO  Keywords:289 - Element found...ebix.search
+2024-04-22 10:25:27 INFO  Keywords:137 - ClickOnLink is called
+2024-04-22 10:25:27 INFO  Keywords:285 - Waiting for webElement...ebix.searchOutPut
+2024-04-22 10:25:27 INFO  Keywords:289 - Element found...ebix.searchOutPut
+2024-04-22 10:25:27 INFO  Keywords:137 - ClickOnLink is called
+2024-04-22 10:25:27 INFO  Keywords:285 - Waiting for webElement...ebix.workflow
+2024-04-22 10:25:27 INFO  Keywords:289 - Element found...ebix.workflow
+2024-04-22 10:25:48 INFO  Keywords:582 - WorkFlow Step Name on Dated :- 2024-04-22 is - Transmitted (Transmitted)
